@@ -1,0 +1,4 @@
+utilisation du de la bibliothèque pyHook pour avoir les evenement 
+de la souris en entrée 
+l'utilisation de pyHook nécéssite l'utilisation de la bibliothèque 
+PyWin pour l'utilisation des API win 32 
